@@ -6,7 +6,7 @@ Para executar este código, é necessário instalar os seguintes pacotes no Pyth
 
 !pip install scikit-learn matplotlib pycaret pandas
 
-## Resumo `<br>`
+## Resumo
 
 Este código implementa um modelo de clusterização utilizando o algoritmo K-Means em um conjunto de dados do Facebook. Ele realiza as seguintes etapas:
 
